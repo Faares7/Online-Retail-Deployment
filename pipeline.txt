@@ -1,4 +1,4 @@
-online-retail-project/
+Online-Retail-Project/
 ├─ data/
 │  ├─ online_retail.csv
 ├─ src/
