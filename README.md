@@ -67,8 +67,8 @@ a full detailed project structure can be viewed in the pipeline.txt file.
 
     1. Clone the repository
 
-        git clone https://github.com/your-username/online-retail-project.git
-        cd online-retail-project
+        git clone https://github.com/Faares7/Online-Retail-Deployment.git
+        cd Online-Retail-Deployment
 
     2. Create a Python environment to install required dependecies
             
